@@ -1,10 +1,7 @@
-# lca-dissertation-analysis
-dissertation work 2020 - 2023
-
 # Latent Class Analysis: Black Adolescent Discrimination Experiences
 
 Code for dissertation: "Unraveling Hopelessness: A Latent Class Analysis of Black Adolescent Student Experiences"
-
+dissertation work 2020 - 2023
 ## Methods
 - **Latent Class Analysis (LCA)** using poLCA package
 - **Model comparison** via BIC, entropy, classification diagnostics
